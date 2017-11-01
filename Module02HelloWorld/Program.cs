@@ -24,6 +24,8 @@ namespace Module02HelloWorld
             int AntalMåneder = 12;      // overvej at bruge StyleCop til at fange navngivningsfejl
 
 
+
+
             // Brug Console til at skrive/læse fra konsolen
             Console.WriteLine("ldfksgjdlkgj");
 
