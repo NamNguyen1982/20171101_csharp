@@ -93,6 +93,7 @@ namespace Module03ValueTypes
                 Console.WriteLine("Ulige - onsdag");
             }
 
+            // checked vil sørge for at smide en exception
             int yy = 50000000;
             //checked
             //{
