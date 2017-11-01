@@ -16,3 +16,5 @@
 - Comments (brug // eller ///)
 - Use the debugger (breakpoint = F9)
 - VS = solution er paraply for projekter
+- Brug evt StyleCop for at sikre korrekt navngivning
+- Brug evt ILSpy eller dotPeek til at se og konvertere IL kode
