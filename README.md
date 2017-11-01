@@ -21,7 +21,7 @@
 
 ## Module 3 Value types
 
-- value (stack) og reference typer (heap) (se (https://github.com/devcronberg/20171101_csharp/blob/master/ReadMe/CSHSHJ-32-1-live.png)[billede] fra WhiteBoard)
+- value (stack) og reference typer (heap) (se [https://github.com/devcronberg/20171101_csharp/blob/master/ReadMe/CSHSHJ-32-1-live.png](billede) fra WhiteBoard)
 - brug int (heltal), decimal (kommatal), DateTime (dato/tid), bool (true/false)
 - brug ToString med formateringskoder for at formatere tal og datoer
 - brug evt konstanter (const)  
