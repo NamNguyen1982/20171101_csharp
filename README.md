@@ -18,3 +18,14 @@
 - VS = solution er paraply for projekter
 - Brug evt StyleCop for at sikre korrekt navngivning
 - Brug evt ILSpy eller dotPeek til at se og konvertere IL kode
+
+## Module 3 Value types
+
+- value (stack) og reference typer (heap)
+- brug int (heltal), decimal (kommatal), DateTime (dato/tid), bool (true/false)
+- brug ToString med formateringskoder for at formatere tal og datoer
+- brug evt konstanter (const)  
+- typekonvertering (implicit / explicit) - brug System.Convert ved explicit (eller checked)
+- enumerations erstatter en tabel over værdier med logiske navne (farver, ugedage mv)
+- struct giver mulighed for sammensatte datatyper (på stack = værdier)
+- brug af new på struct's tildeler default værdier til felter
