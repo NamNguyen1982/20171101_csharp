@@ -21,7 +21,7 @@
 
 ## Module 3 Value types
 
-- value (stack) og reference typer (heap)
+- value (stack) og reference typer (heap) (se [billede](https://github.com/devcronberg/20171101_csharp/blob/master/ReadMe/CSHSHJ-32-1-live.png) fra WhiteBoard)
 - brug int (heltal), decimal (kommatal), DateTime (dato/tid), bool (true/false)
 - brug ToString med formateringskoder for at formatere tal og datoer
 - brug evt konstanter (const)  
@@ -29,3 +29,4 @@
 - enumerations erstatter en tabel over værdier med logiske navne (farver, ugedage mv)
 - struct giver mulighed for sammensatte datatyper (på stack = værdier)
 - brug af new på struct's tildeler default værdier til felter
+
