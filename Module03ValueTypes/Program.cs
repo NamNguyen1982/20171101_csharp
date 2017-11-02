@@ -55,7 +55,7 @@ namespace Module03ValueTypes
             DateTime m = new DateTime(2017, 12, 24);
 
             TimeSpan t = m.Subtract(d);
-            Console.WriteLine(t.TotalDays);
+            Console.WriteLine(t.TotalDays); 
 
 
             //int u = 100;
@@ -142,29 +142,23 @@ namespace Module03ValueTypes
             char tegn = 'e';
 
 
+            Person p1;
+            p1.navn = "ksdfj";
+            p1.alder = 0;
+            p1.alder = p1.alder + 1;
+
+            Person p2 = new Person();
+            p2.alder = p2.alder + 1;
+            
+            // værdier kopieres...
+            p1 = p2;
+
+
+            int ee  =0;
+            ee = ee + 1;
+
 
 
         }
-    }
-
-    enum Køn 
-    {
-        Mand,
-        Kvinde
-    }
-
-    enum Farve {
-        Spar,
-        Klør,
-        Hjerter,
-        Ruder
-    }
-
-    // Værdibaseret klasse (struct - på stack)
-    struct Person
-    {
-        public string navn;
-        public int alder;
-        public string adresse;
     }
 }

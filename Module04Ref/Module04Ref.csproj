@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3B5C1D74-BE8B-48B3-82A9-F819F56E3F1E}</ProjectGuid>
+    <ProjectGuid>{94203F21-9CB9-47F0-83B3-38CD1AC8CCE5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Module03ValueTypes</RootNamespace>
-    <AssemblyName>Module03ValueTypes</AssemblyName>
+    <RootNamespace>Module04Ref</RootNamespace>
+    <AssemblyName>Module04Ref</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,10 +42,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Farve.cs" />
-    <Compile Include="PersonRelaterede\Hund.cs" />
-    <Compile Include="PersonRelaterede\Køn.cs" />
-    <Compile Include="PersonRelaterede\Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
