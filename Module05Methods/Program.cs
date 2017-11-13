@@ -37,7 +37,11 @@ namespace Module05Methods
             Console.WriteLine(q1);
 
 
+            Module06Class.Faktura.Person p = new Module06Class.Faktura.Person();
             
+
+
+
         }
 
         static int Test2() {
