@@ -50,3 +50,17 @@
 - Ref baserede variabler som argumenter kan tilrettes (heap)
 - Se og forstå eksempler på ovennævnte - kod det gerne selv og brug debugger
 - Optional og overloads kan bruges til at have metoder med samme navn der kan kaldes på forskellig måde
+
+## Module 6 Intro OOP
+- The Three Pillars of OOP = Encapsulation, Inheritance, Polymorphism
+- UML, Gang of four, Martin Fowler
+- class + internal/public
+- brug af new
+- object = ref = var på stack og objekt på heap (visualisér)
+- felter = data
+- private og offentlige felter (offentlige felter = medarbejdersamtale - brug egenskaber eller metoder)
+- default og custom (argumenter) constructor
+- brug base til at kæde constructor'er sammen
+- partial = klasser med sammen navn der kompileres sammen (i samme assembly)
+- indkapsling med metoder (som java - get.. set..)
+- forskel på stuct og class (stack/heap, ingen nedarvning/nedarvning)
