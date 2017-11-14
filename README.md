@@ -64,3 +64,13 @@
 - partial = klasser med sammen navn der kompileres sammen (i samme assembly)
 - indkapsling med metoder (som java - get.. set..)
 - forskel på stuct og class (stack/heap, ingen nedarvning/nedarvning)
+
+## Module 7 Properties
+- Why properties and not methods... (syntax, UI/Databinding, reflection, object initializers, best pratice)
+- Syntax - get/set
+- read/write only
+- get only / set only
+- auto properties
+- object initializer
+- static members = shared members (on class not on instance)
+- static using (using static System.Console = WriteLine(""))
